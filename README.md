@@ -45,3 +45,9 @@ The thresholds are judgment calls made by an AI reviewer before any result, not 
 ## Changes
 
 Any threshold changed after a related result voids that test, and the project's site must say so. The git history and tags are the record.
+
+## Frozen inputs
+
+SHA-256 fingerprints of inputs fixed before any new links were generated. The files stay private until they are published; the fingerprint lets anyone check them later.
+
+- 2026-11-01, link pool for test F3 (42 combinations and 618 prerequisite links): `079f702611b9decfc33ba817f57e74e09eaef60d84165174df02414fde4a4c60`
